@@ -145,7 +145,6 @@ INSTALLED_APPS = (
     'djangocms_googlemap',
     'djangocms_inherit',
     'djangocms_link',
-    'reversion',
     'mysite',
     'demo_app'
 )
